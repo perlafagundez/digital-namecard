@@ -143,14 +143,14 @@ img.profile-pic {
 }
 
 .text-name {
-    font-family: 'Gotham', black;
+    font-family: 'Montserrat', bold;
     font-weight: 400;
     color: #333333;
     font-size: 20px;
 }
 
 .text-title-company {
-    font-family: 'Gotham', black;
+    font-family: 'Montserrat', bold;
     font-weight: 200;
     color: #333333;
     font-size: 12px;
